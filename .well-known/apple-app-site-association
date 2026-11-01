@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["BSPG2M2KT2.com.maxsgames.sudoku"],
+        "components": [
+          { "/": "/sudoku/play", "comment": "A Sudoku game sent as a link, opened in the app." },
+          { "/": "/sudoku/play/*", "comment": "A Sudoku game sent as a link, opened in the app." }
+        ]
+      }
+    ]
+  }
+}
